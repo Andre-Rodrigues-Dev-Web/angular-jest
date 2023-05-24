@@ -12,4 +12,5 @@
     "unknown"
   ],
   "jest.coverageFormatter": "GutterFormatter",
+  "liveServer.settings.port": 5501,
 }
